@@ -86,5 +86,5 @@ api/
 
 ## Connect
 
-- X — [@clawraintech](https://x.com/clawraintech)
+- X — [@clawrainai](https://x.com/clawrainai)
 - Website — [clawrain.xyz](https://clawrain.xyz)
